@@ -9,7 +9,7 @@ body {
   }
   nav {
     height: 150%;
-    width: 160px;
+    width: 180px;
     position: fixed;
     background-color: rgb(14, 83, 0);
     padding: 20px 10px 1000px 10px;
@@ -30,12 +30,12 @@ body {
   } 
   .home {
     margin-left: 170px; 
-    padding: 5px 20px;
+    padding: 5px 40px;
   }
   .logo{
     height:30px;
     color: rgb(72, 255, 0) ; 
-    padding: 10
+    padding: 10px 20px 10px 
   }
   .serviam{
     padding: 12px 2px 1px ;
